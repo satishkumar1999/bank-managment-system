@@ -89,9 +89,14 @@ CREATE TABLE bank (
 
 (https://github.com/satishkumar1999/bank-managment-system/blob/main/b2.PNG)
 
-## 👤 Author
- Satish Kumar  
-📧raj715255@gmail.com
+---
+
+## 🙋‍♂️ Author
+
+**Satish Kumar**  
+📧 Email: raj715255@gmail.com  
+🔗 GitHub: [@satishkumar1999](https://github.com/satishkumar1999)
+
 
 
 
