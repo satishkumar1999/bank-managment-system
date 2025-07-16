@@ -87,11 +87,11 @@ CREATE TABLE bank (
 ## 📸 Screenshots
 (https://github.com/satishkumar1999/bank-managment-system/blob/main/b1.PNG)
 
-()
+(https://github.com/satishkumar1999/bank-managment-system/blob/main/b2.PNG)
 
 ## 👤 Author
  Satish Kumar
- 📧 [Optional Email or GitHub profile]
+ 📧 raj715255@gmail.com
 
 
 
