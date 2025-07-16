@@ -58,7 +58,36 @@ CREATE TABLE bank (
     Amount VARCHAR(20)
 );
 ```
+⚠️ Make sure to configure the correct DB credentials in ConnectToDb.java.
 
+---
+
+### 🔌 How to Run (In IntelliJ)
+Clone the project or download the ZIP.
+
+Open the project in IntelliJ.
+
+Add external JAR:
+
+Go to File > Project Structure > Modules > Dependencies.
+
+Click + > JARs or directories > Select jcalendar-tz-1.3.3-4.jar.
+
+Make sure your MySQL is running and DB is configured.
+
+Run LoginForm.java or Main.java to start the app.
+
+### 🚧 Project Status
+🔧 This project is currently under development.
+✅ Pages implemented: Login, Signup, Deposit, Withdraw, Dashboard, Balance
+❌ Pending: Mini Statement, PIN Change, validations, and UI enhancements.
+
+### 📸 Screenshots
+(Add your screenshots here after completion)
+
+### 👤 Author
+Satish Kumar
+📧 [Optional Email or GitHub profile]
 
 
 
