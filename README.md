@@ -63,31 +63,33 @@ CREATE TABLE bank (
 ---
 
 ## 🔌 How to Run (In IntelliJ)
-Clone the project or download the ZIP.
+ Clone the project or download the ZIP.
 
-Open the project in IntelliJ.
+ Open the project in IntelliJ.
 
-Add external JAR:
+ Add external JAR:
 
-Go to File > Project Structure > Modules > Dependencies.
+ Go to File > Project Structure > Modules > Dependencies.
 
-Click + > JARs or directories > Select jcalendar-tz-1.3.3-4.jar.
+ Click + > JARs or directories > Select jcalendar-tz-1.3.3-4.jar.
 
-Make sure your MySQL is running and DB is configured.
+ Make sure your MySQL is running and DB is configured.
 
-Run LoginForm.java or Main.java to start the app.
+ Run LoginForm.java or Main.java to start the app.
 
 ## 🚧 Project Status
--🔧 This project is currently under development.
--✅ Pages implemented: Login, Signup, Deposit, Withdraw, Dashboard, Balance
--❌ Pending: Mini Statement, PIN Change, validations, and UI enhancements.
+ -🔧 This project is currently under development.
+ 
+ -✅ Pages implemented: Login, Signup, Deposit, Withdraw, Dashboard, Balance
+
+ -❌ Pending: Mini Statement, PIN Change, validations, and UI enhancements.
 
 ## 📸 Screenshots
 (Add your screenshots here after completion)
 
 ## 👤 Author
-Satish Kumar
-📧 [Optional Email or GitHub profile]
+ Satish Kumar
+ 📧 [Optional Email or GitHub profile]
 
 
 
