@@ -85,7 +85,9 @@ CREATE TABLE bank (
  -❌ Pending: Mini Statement, PIN Change, validations, and UI enhancements.
 
 ## 📸 Screenshots
-(Add your screenshots here after completion)
+(https://github.com/satishkumar1999/bank-managment-system/blob/main/b1.PNG)
+
+()
 
 ## 👤 Author
  Satish Kumar
