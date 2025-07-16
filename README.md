@@ -62,7 +62,7 @@ CREATE TABLE bank (
 
 ---
 
-### 🔌 How to Run (In IntelliJ)
+## 🔌 How to Run (In IntelliJ)
 Clone the project or download the ZIP.
 
 Open the project in IntelliJ.
@@ -77,15 +77,15 @@ Make sure your MySQL is running and DB is configured.
 
 Run LoginForm.java or Main.java to start the app.
 
-### 🚧 Project Status
-🔧 This project is currently under development.
-✅ Pages implemented: Login, Signup, Deposit, Withdraw, Dashboard, Balance
-❌ Pending: Mini Statement, PIN Change, validations, and UI enhancements.
+## 🚧 Project Status
+-🔧 This project is currently under development.
+-✅ Pages implemented: Login, Signup, Deposit, Withdraw, Dashboard, Balance
+-❌ Pending: Mini Statement, PIN Change, validations, and UI enhancements.
 
-### 📸 Screenshots
+## 📸 Screenshots
 (Add your screenshots here after completion)
 
-### 👤 Author
+## 👤 Author
 Satish Kumar
 📧 [Optional Email or GitHub profile]
 
